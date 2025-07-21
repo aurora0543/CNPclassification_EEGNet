@@ -1,0 +1,23 @@
+# PyCharm
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+*.env
+
+# Virtual environments
+venv/
+.venv/
+
+# macOS system files
+.DS_Store
+
+# Results and logs
